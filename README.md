@@ -37,7 +37,18 @@ Deployed an Amazon EC2 instance and implemented monitoring and alerting using AW
 - Cloud Monitoring & Observability  
 - CloudWatch Metrics & Alarms  
 - SNS Notification Integration  
-- Troubleshooting & Performance Analysis  
+- Troubleshooting & Performance Analysis
+
+---
+
+## 📸 Screenshots
+
+### CPU Utilization Spike
+![CPU Spike](images/cpu-spike.png)
+
+### CloudWatch Alarm Triggered
+![Alarm Triggered](images/alarm-triggered.png)
+
 
 ---
 
