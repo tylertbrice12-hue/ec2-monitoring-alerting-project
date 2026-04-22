@@ -44,10 +44,10 @@ Deployed an Amazon EC2 instance and implemented monitoring and alerting using AW
 ## 📸 Screenshots
 
 ### CPU Utilization Spike
-![CPU Spike](images/cpu-spike.png)
+![CPU Spike](https://github.com/tylertbrice12-hue/ec2-monitoring-alerting-project/blob/main/cpu.spike.png?raw=true)
 
 ### CloudWatch Alarm Triggered
-![Alarm Triggered](images/alarm-triggered.png)
+![Alarm Triggered](https://github.com/tylertbrice12-hue/ec2-monitoring-alerting-project/blob/main/alarm.triggered.png?raw=true)
 
 
 ---
