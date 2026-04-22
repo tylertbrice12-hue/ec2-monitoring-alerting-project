@@ -1,1 +1,8 @@
+## Setup Steps
+1. Launch EC2 instance  
+2. Connect via EC2 Instance Connect  
+3. Install stress tool  
+4. Generate CPU load  
+5. Configure CloudWatch alarm  
+6. Set up SNS notifications  
 
